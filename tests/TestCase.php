@@ -48,7 +48,7 @@ class C3 {
     
 class C4 {
     public function T4($a, $b) {
-        return "";
+        return "is not empty"; 
     }
 }
 class C5 {
